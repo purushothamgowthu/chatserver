@@ -6,7 +6,6 @@
 "scripts": {
   "test": "mocha"
 },
-  },
   "author": "vijay18399",
   "license": "ISC",
   "dependencies": {
