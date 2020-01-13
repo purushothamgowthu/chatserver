@@ -4,7 +4,7 @@
   "description": "rest api for register,login,getusers,getuser",
   "main": "index.js",
 "scripts": {
-  "test": "tests not vailable"
+  "test": "tests not vailable",
   "start":"node index.js"
 },
   "author": "vijay18399",
